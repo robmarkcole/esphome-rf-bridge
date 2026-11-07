@@ -16,7 +16,7 @@ the original button and chime working normally.
 
 | Component | Status and purpose |
 | --- | --- |
-| AVANTEK wireless doorbell, ASIN B07KG9VXF6 | Existing button and chime; believed to use 433.92 MHz, pending verification |
+| [AVANTEK wireless doorbell](https://www.amazon.co.uk/dp/B07KG9VXF6), ASIN B07KG9VXF6 | Existing button and chime; believed to use 433.92 MHz, pending verification |
 | ESP32-WROOM-32 development board | Available; runs ESPHome and connects over Wi-Fi |
 | RXB6 433 MHz superheterodyne receiver | Reported available in the initial inventory; verify the actual board before wiring |
 | DollaTek receiver, ASIN B07DK5ZC77 | Ordered; exact model, frequency, pinout and voltage requirements remain unverified |
